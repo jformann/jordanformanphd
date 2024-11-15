@@ -2315,7 +2315,7 @@ input, select, textarea {
 			background: #ffffff;
 			border-color: #ffffff;
 			content: '\f00c';
-			color: #2e3141;
+			color: #1d0149;
 		}
 
 		input[type="checkbox"]:focus + label:before,
